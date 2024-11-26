@@ -3,8 +3,7 @@
 #While Loop Practice
 
 
-
- 
+#managing a list with a WHILE loop
 number = 0
 tempatures = []
 
